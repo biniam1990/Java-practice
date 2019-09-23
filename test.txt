@@ -10,4 +10,6 @@ git add <file name>
 git add *  if you want to stage all the modified files
 git commit -m "my commit" .....to store the snapshots in the local .git file
 
+git pull ....fetching changes from the upstream respository
+
 git push .....to push it to the remote repository
