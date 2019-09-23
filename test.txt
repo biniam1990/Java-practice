@@ -1,0 +1,13 @@
+names: biniam, Nati , Bemelekot
+
+git clone <project url> .....to get the local copy of the remote repository
+
+if it's not a git repository start with   git init
+
+git status
+
+git add <file name> 
+git add *  if you want to stage all the modified files
+git commit -m "my commit" .....to store the snapshots in the local .git file
+
+git push .....to push it to the remote repository
